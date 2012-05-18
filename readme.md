@@ -1,6 +1,6 @@
 # Arduino Twitter Client
 
-USB Twitter client for Arduino. Requires Python.
+USB Twitter client for Arduino. Requires Python, python-twitter, pySerial.
 
 Uses USB, rather than the widely available ethernet code: http://arduino.cc/en/Tutorial/TwitterClient
 
