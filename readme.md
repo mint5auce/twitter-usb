@@ -3,6 +3,8 @@
 Simple USB Twitter experiments for Arduino. 
 
 ##Requirements:
+
+- [Arduino](http://arduino.cc), connected via USB.
 - Python
 - [python-twitter](http://code.google.com/p/python-twitter/)
 - [pySerial](http://pyserial.sourceforge.net/)
