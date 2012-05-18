@@ -1,12 +1,17 @@
 # Arduino Twitter Client
 
-Simple USB Twitter client for Arduino. Requires Python, python-twitter, pySerial, dev.twitter.com account.
+Simple USB Twitter experiments for Arduino. 
 
-Tested as working:
-  - Write status from Arduino.
+##Requirements:
+- Python
+- [python-twitter](http://code.google.com/p/python-twitter/)
+- [pySerial](http://pyserial.sourceforge.net/)
+- [dev.twitter.com](http://dev.twitter.com/) account.
 
-Uses USB, rather than the widely available ethernet code: http://arduino.cc/en/Tutorial/TwitterClient
+Locally, should run within [virtualenv](http://www.virtualenv.org/en/latest/index.html), where requirements should be installed.
 
-Based on code from: http://wellsb.com/post/5135881420/arduino-to-twitter-over-usb
+Uses out of the box USB link, rather than the widely available [ethernet code](http://arduino.cc/en/Tutorial/TwitterClient) that requires the ethernet shield.
 
-Locally, should run within virtualenv, ehere requirements should be installed.
+## Acknowledgements
+Based on code from [Wellsb](http://wellsb.com/post/5135881420/arduino-to-twitter-over-usb)
+
