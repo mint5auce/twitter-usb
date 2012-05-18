@@ -2,3 +2,6 @@
 bin/*
 lib/*
 include/*
+build/*
+*.pyc
+twitterkeys.py
